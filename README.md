@@ -2,6 +2,8 @@
 
 Projeto desenvolvido para implementar e explorar o uso de interfaces em sistemas embarcados utilizando o microcontrolador RP2040.
 
+# Colaboradora: Isabel Rosa de Santana 
+
 ## Descrição
 
 Este projeto foca na criação de um sistema modular que utiliza interfaces para conectar e controlar diferentes componentes de hardware, como LEDs, botões e sensores. O objetivo principal é promover a flexibilidade e escalabilidade, permitindo a fácil adição ou modificação de dispositivos.
